@@ -1,5 +1,5 @@
 # Memory_game
-This is my 2-1 project. I created it using javascript, html, css. 
+This is my 2-1 project.
 A retro grid-based game in vanilla JavaScript, HTML and CSS
 
 
